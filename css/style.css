@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Prompt');
+@import url('https://fonts.googleapis.com/css?family=Prompt|Roboto');
+
+body {
+  background-color: #F5F5F5 ;
+}
+a:hover {
+  text-decoration: none;
+}
+.jumbotron {
+  background-color: #259e87 ;
+  padding-left: 4% ;
+  height: 30% ;
+}
+.container {
+  background-color: #259e87 ;
+  padding-top: 1.5% ;
+  padding-left: 4% ;
+  height: 17% ;
+}
+.eng {
+  font-family: 'Roboto', sans-serif;
+}
+.thai {
+  font-family: 'Prompt', sans-serif;
+}
+.box {
+  margin-top: 4% ;
+}
+.navbar {
+  font-family: Montserrat, sans-serif;
+  margin-bottom: 0;
+  background-color: #259e87;
+  border: 0;
+  font-size: 14px ;
+  letter-spacing: 4px;
+  opacity: 0.9;
+}
+.navbar-brand {
+  font-size: 26px ;
+}
+.dropdown-menu {
+  font-size: 14px ;
+}
+.navbar li a, .navbar .navbar-brand {
+  color: #fff !important;
+}
+.open .dropdown-toggle {
+  color: #fff;
+  background-color: #33CC99 !important;
+}
+.dropdown-menu li a {
+  color: #000 !important;
+}
+.dropdown-menu li a:hover {
+  background-color: #33CC99 !important;
+}
